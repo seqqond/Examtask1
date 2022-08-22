@@ -1,0 +1,70 @@
+.text {
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.dashboard {
+    font-size: 16px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: gray;
+}
+.dash {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.dashboard:hover {
+    background-color: rgb(219, 52, 79);
+    color: white;
+}
+.menu {
+    box-shadow: 1px 1px 10px black;
+    height: 100vh;
+}
+.text-3 {
+    font-size: 25px;
+}
+.card-content {
+    position: relative
+}
+.data {
+    position: absolute;
+    bottom: 40px;
+    background-color: green;
+    padding: 30px;
+    left: 20px;
+}
+.row-2 {
+    background-color: rgb(227, 227, 227);
+}
+.row-2 > .l3, .row-2 > .l4 {
+    margin-top: 40px;
+}
+.warning-text {
+    font-size: 20px;
+    text-transform:initial;
+}
+.warn {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.mainicon {
+    position: absolute;
+    bottom: 40px;
+    padding: 23px;
+    left: 20px;
+}
+.shop {
+    
+    background-color: rgb(255, 200, 0);
+    
+}
+.tag {
+    background-color: rgb(80, 24, 171);
+}
+.paperplane {
+background-color: rgb(155, 40, 124);
+}
